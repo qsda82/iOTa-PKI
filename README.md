@@ -12,7 +12,7 @@
 * PyCryptodome:https://pycryptodome.readthedocs.io/en/latest/src/introduction.html
 * Hornet node:https://wiki.iota.org/hornet/welcome
 
-#### 如何執行：
+# 執行
 #### 需具備兩台載相同網路下的主機，其中一台先執行`server_handshake.py`開啟socket服務
 `python server_handshake.py`
 
