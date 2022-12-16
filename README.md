@@ -7,7 +7,7 @@
 * 免於單點CA所受的危害
 
 # Prerequisites
-#### 運行iOTa_PKI必須先具備：
+#### 運行iOTa_PKI必須先安裝：
 * IOTA Client Python Library:https://wiki.iota.org/iota.rs/libraries/python/api_reference#api-reference
 * PyCryptodome:https://pycryptodome.readthedocs.io/en/latest/src/introduction.html
 * Hornet node:https://wiki.iota.org/hornet/welcome
