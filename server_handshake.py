@@ -40,7 +40,7 @@ class CR_server:
             elif vertication==0:
                 print("verify fail")
                 conn.close()
-            
+            #驗證完成可開始做後續動作
             conn.close()
 if __name__ == "__main__":
     CR_server=CR_server()
