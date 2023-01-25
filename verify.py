@@ -46,6 +46,7 @@ def cert_up_to_date(index):
     for i in range(len(time_list)):
         if time_list[i] == max(time_list):
             return cid_list[i]
+    return 0
     
 #證書驗證
 def cert_verify(cid,useage_times):
