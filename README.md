@@ -21,7 +21,7 @@
 
 `python client_handshake.py`
 # 架構圖
-![](https://i.imgur.com/9spGWOE.png)
+![](https://i.imgur.com/QdES86M.png)
 
 #### Steps:
 1. 建立key pair
