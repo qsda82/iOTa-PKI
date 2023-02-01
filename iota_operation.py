@@ -68,7 +68,7 @@ def cert(ID,pub_key,revo,algo):
     data["Signature"]["Sign"]=RSA_key_operation.sign(sign).hex()
     cert=json.dumps(data)
     return cert
- 
+#存在transparnecy的憑證紀錄皆為完成簽章驗證的憑證，詳情請見verify.py
 def transparnecy():
     data={"transparnecy": 
         {
