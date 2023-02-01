@@ -33,7 +33,7 @@
 7. 通過驗證的憑證，可用於TLS交握
 
 # 憑證格式
-![](https://i.imgur.com/6NAqxGj.png)
+![](https://i.imgur.com/ItTVgDF.png)
 # 成果
 #### 相較於不同證書鏈長度L的憑證，iOTa-PKI具有較低的驗證成本
 ![](https://i.imgur.com/eOdqKzj.jpg)
